@@ -13,3 +13,5 @@
 # change test 005 gpg second
 
 # change test 006 new macbook terminal first
+
+# change test 007 new macbook vs code first
