@@ -15,3 +15,5 @@
 # change test 006 new macbook terminal first
 
 # change test 007 new macbook vs code first
+
+# change test 008 new macbook vs code second
